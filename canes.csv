@@ -1,0 +1,85 @@
+,index,GameID,Final_Away_Score,Final_Home_Score,Home,Away,GameDate,Season,Carolina Hurricanes,Opponent,GoalDiff,Probability,OpposingTeam,Opponent2
+0,80,2018020008,2,1,Carolina Hurricanes,New York Islanders,2018-10-04,2018-2019,1.0,1.0,0.0,0.5030100000000001,New York Islanders,"Oct 04 
+ New York Islanders"
+1,81,2018020015,3,1,Columbus Blue Jackets,Carolina Hurricanes,2018-10-05,2018-2019,3.0,1.0,2.0,0.53354,Columbus Blue Jackets,"Oct 05 
+ Columbus Blue Jackets"
+2,82,2018020029,5,8,Carolina Hurricanes,New York Rangers,2018-10-07,2018-2019,7.0,5.0,2.0,0.56934,New York Rangers,"Oct 07 
+ New York Rangers"
+3,83,2018020037,3,5,Carolina Hurricanes,Vancouver Canucks,2018-10-09,2018-2019,5.0,3.0,2.0,0.60035,Vancouver Canucks,"Oct 09 
+ Vancouver Canucks"
+4,84,2018020060,5,4,Minnesota Wild,Carolina Hurricanes,2018-10-13,2018-2019,4.0,4.0,0.0,0.60159,Minnesota Wild,"Oct 13 
+ Minnesota Wild"
+5,85,2018020073,1,3,Winnipeg Jets,Carolina Hurricanes,2018-10-14,2018-2019,1.0,2.0,-1.0,0.58913,Winnipeg Jets,"Oct 14 
+ Winnipeg Jets"
+6,86,2018020082,2,4,Tampa Bay Lightning,Carolina Hurricanes,2018-10-16,2018-2019,2.0,3.0,-1.0,0.58098,Tampa Bay Lightning,"Oct 16 
+ Tampa Bay Lightning"
+7,87,2018020103,3,1,Carolina Hurricanes,Colorado Avalanche,2018-10-20,2018-2019,1.0,3.0,-2.0,0.5525899999999999,Colorado Avalanche,"Oct 20 
+ Colorado Avalanche"
+8,88,2018020119,3,1,Detroit Red Wings,Carolina Hurricanes,2018-10-22,2018-2019,2.0,1.0,1.0,0.56777,Detroit Red Wings,"Oct 22 
+ Detroit Red Wings"
+9,89,2018020146,3,4,Carolina Hurricanes,San Jose Sharks,2018-10-26,2018-2019,3.0,3.0,0.0,0.5742,San Jose Sharks,"Oct 26 
+ San Jose Sharks"
+10,90,2018020161,2,1,Carolina Hurricanes,New York Islanders,2018-10-28,2018-2019,1.0,2.0,-1.0,0.56199,New York Islanders,"Oct 28 
+ New York Islanders"
+11,91,2018020169,3,2,Carolina Hurricanes,Boston Bruins,2018-10-30,2018-2019,2.0,3.0,-1.0,0.54905,Boston Bruins,"Oct 30 
+ Boston Bruins"
+12,92,2018020194,3,4,Arizona Coyotes,Carolina Hurricanes,2018-11-02,2018-2019,3.0,3.0,0.0,0.55437,Arizona Coyotes,"Nov 02 
+ Arizona Coyotes"
+13,93,2018020204,0,3,Vegas Golden Knights,Carolina Hurricanes,2018-11-03,2018-2019,0.0,3.0,-3.0,0.51083,Vegas Golden Knights,"Nov 03 
+ Vegas Golden Knights"
+14,94,2018020221,1,4,St. Louis Blues,Carolina Hurricanes,2018-11-06,2018-2019,1.0,3.0,-2.0,0.48468,St. Louis Blues,"Nov 06 
+ St. Louis Blues"
+15,95,2018020233,4,3,Chicago Blackhawks,Carolina Hurricanes,2018-11-08,2018-2019,4.0,3.0,1.0,0.50359,Chicago Blackhawks,"Nov 08 
+ Chicago Blackhawks"
+16,96,2018020250,4,3,Carolina Hurricanes,Detroit Red Wings,2018-11-10,2018-2019,3.0,3.0,0.0,0.50489,Detroit Red Wings,"Nov 10 
+ Detroit Red Wings"
+17,97,2018020261,2,3,Carolina Hurricanes,Chicago Blackhawks,2018-11-12,2018-2019,2.0,2.0,0.0,0.51031,Chicago Blackhawks,"Nov 12 
+ Chicago Blackhawks"
+18,98,2018020297,4,1,Carolina Hurricanes,Columbus Blue Jackets,2018-11-17,2018-2019,1.0,4.0,-3.0,0.46971999999999997,Columbus Blue Jackets,"Nov 17 
+ Columbus Blue Jackets"
+19,99,2018020304,1,2,Carolina Hurricanes,New Jersey Devils,2018-11-18,2018-2019,2.0,1.0,1.0,0.48658999999999997,New Jersey Devils,"Nov 18 
+ New Jersey Devils"
+20,100,2018020323,2,5,Carolina Hurricanes,Toronto Maple Leafs,2018-11-21,2018-2019,3.0,2.0,1.0,0.50145,Toronto Maple Leafs,"Nov 21 
+ Toronto Maple Leafs"
+21,101,2018020342,1,4,Carolina Hurricanes,Florida Panthers,2018-11-23,2018-2019,3.0,1.0,2.0,0.53486,Florida Panthers,"Nov 23 
+ Florida Panthers"
+22,102,2018020352,1,4,New York Islanders,Carolina Hurricanes,2018-11-24,2018-2019,1.0,4.0,-3.0,0.49832,New York Islanders,"Nov 24 
+ New York Islanders"
+23,103,2018020369,2,1,Montréal Canadiens,Carolina Hurricanes,2018-11-27,2018-2019,2.0,1.0,1.0,0.50977,Montréal Canadiens,"Nov 27 
+ Montréal Canadiens"
+24,104,2018020392,2,1,Carolina Hurricanes,Anaheim Ducks,2018-11-30,2018-2019,1.0,1.0,0.0,0.51321,Anaheim Ducks,"Nov 30 
+ Anaheim Ducks"
+25,105,2018020412,0,2,Los Angeles Kings,Carolina Hurricanes,2018-12-02,2018-2019,0.0,1.0,-1.0,0.50367,Los Angeles Kings,"Dec 02 
+ Los Angeles Kings"
+26,106,2018020428,1,5,San Jose Sharks,Carolina Hurricanes,2018-12-05,2018-2019,1.0,5.0,-4.0,0.45415,San Jose Sharks,"Dec 05 
+ San Jose Sharks"
+27,107,2018020443,4,1,Anaheim Ducks,Carolina Hurricanes,2018-12-07,2018-2019,3.0,1.0,2.0,0.48139,Anaheim Ducks,"Dec 07 
+ Anaheim Ducks"
+28,108,2018020468,4,1,Carolina Hurricanes,Toronto Maple Leafs,2018-12-11,2018-2019,1.0,4.0,-3.0,0.44593,Toronto Maple Leafs,"Dec 11 
+ Toronto Maple Leafs"
+29,109,2018020481,4,6,Montréal Canadiens,Carolina Hurricanes,2018-12-13,2018-2019,4.0,5.0,-1.0,0.43573999999999996,Montréal Canadiens,"Dec 13 
+ Montréal Canadiens"
+30,110,2018020491,6,5,Carolina Hurricanes,Washington Capitals,2018-12-14,2018-2019,5.0,5.0,0.0,0.44128999999999996,Washington Capitals,"Dec 14 
+ Washington Capitals"
+31,111,2018020506,0,3,Carolina Hurricanes,Arizona Coyotes,2018-12-16,2018-2019,3.0,0.0,3.0,0.48136999999999996,Arizona Coyotes,"Dec 16 
+ Arizona Coyotes"
+32,112,2018020534,4,1,Carolina Hurricanes,Detroit Red Wings,2018-12-20,2018-2019,1.0,3.0,-2.0,0.45873,Detroit Red Wings,"Dec 20 
+ Detroit Red Wings"
+33,113,2018020554,3,0,Carolina Hurricanes,Pittsburgh Penguins,2018-12-22,2018-2019,0.0,3.0,-3.0,0.42378000000000005,Pittsburgh Penguins,"Dec 22 
+ Pittsburgh Penguins"
+34,114,2018020560,3,5,Carolina Hurricanes,Boston Bruins,2018-12-23,2018-2019,5.0,3.0,2.0,0.45098,Boston Bruins,"Dec 23 
+ Boston Bruins"
+35,115,2018020570,1,3,Washington Capitals,Carolina Hurricanes,2018-12-27,2018-2019,1.0,2.0,-1.0,0.44271000000000005,Washington Capitals,"Dec 27 
+ Washington Capitals"
+36,116,2018020583,0,2,New Jersey Devils,Carolina Hurricanes,2018-12-29,2018-2019,0.0,1.0,-1.0,0.43403,New Jersey Devils,"Dec 29 
+ New Jersey Devils"
+37,117,2018020602,1,3,Carolina Hurricanes,Philadelphia Flyers,2018-12-31,2018-2019,3.0,1.0,2.0,0.46233,Philadelphia Flyers,"Dec 31 
+ Philadelphia Flyers"
+38,118,2018020625,5,3,Philadelphia Flyers,Carolina Hurricanes,2019-01-03,2018-2019,5.0,3.0,2.0,0.48589,Philadelphia Flyers,"Jan 03 
+ Philadelphia Flyers"
+39,119,2018020631,2,4,Carolina Hurricanes,Columbus Blue Jackets,2019-01-04,2018-2019,3.0,2.0,1.0,0.5030600000000001,Columbus Blue Jackets,"Jan 04 
+ Columbus Blue Jackets"
+40,120,2018020647,5,4,Ottawa Senators,Carolina Hurricanes,2019-01-06,2018-2019,5.0,4.0,1.0,0.51586,Ottawa Senators,"Jan 06 
+ Ottawa Senators"
+41,121,2018020659,4,3,New York Islanders,Carolina Hurricanes,2019-01-08,2018-2019,4.0,3.0,1.0,0.52788,New York Islanders,"Jan 08 
+ New York Islanders"
